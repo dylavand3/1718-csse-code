@@ -1,0 +1,10 @@
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/obj/Debug/netcoreapp2.0/Oefening 1.csproj.CoreCompileInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/obj/Debug/netcoreapp2.0/Oefening 1.AssemblyInfoInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/obj/Debug/netcoreapp2.0/Oefening 1.AssemblyInfo.cs
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/bin/Debug/netcoreapp2.0/Oefening 1.deps.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/bin/Debug/netcoreapp2.0/Oefening 1.runtimeconfig.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/bin/Debug/netcoreapp2.0/Oefening 1.runtimeconfig.dev.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/bin/Debug/netcoreapp2.0/Oefening 1.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/bin/Debug/netcoreapp2.0/Oefening 1.pdb
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/obj/Debug/netcoreapp2.0/Oefening 1.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 1/obj/Debug/netcoreapp2.0/Oefening 1.pdb

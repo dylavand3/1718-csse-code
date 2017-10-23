@@ -1,0 +1,30 @@
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/bin/Debug/netcoreapp2.0/Opdracht 2.deps.json
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.json
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.dev.json
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/bin/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/bin/Debug/netcoreapp2.0/Opdracht 2.pdb
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/obj/Debug/netcoreapp2.0/Opdracht 2.csproj.CoreCompileInputs.cache
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfoInputs.cache
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfo.cs
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/obj/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Desktop/code/1718.csse/week 3/Opdracht 2/obj/Debug/netcoreapp2.0/Opdracht 2.pdb
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/bin/Debug/netcoreapp2.0/Opdracht 2.deps.json
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.json
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.dev.json
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/bin/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/bin/Debug/netcoreapp2.0/Opdracht 2.pdb
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/obj/Debug/netcoreapp2.0/Opdracht 2.csproj.CoreCompileInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfoInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfo.cs
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/obj/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/Fibonacci/obj/Debug/netcoreapp2.0/Opdracht 2.pdb
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/bin/Debug/netcoreapp2.0/Opdracht 2.deps.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/bin/Debug/netcoreapp2.0/Opdracht 2.runtimeconfig.dev.json
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/bin/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/bin/Debug/netcoreapp2.0/Opdracht 2.pdb
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/obj/Debug/netcoreapp2.0/Opdracht 2.csproj.CoreCompileInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfoInputs.cache
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/obj/Debug/netcoreapp2.0/Opdracht 2.AssemblyInfo.cs
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/obj/Debug/netcoreapp2.0/Opdracht 2.dll
+/Users/dylan/Documents/GitHub/1718-csse-code/opdrachtweek4/Oefening 2/obj/Debug/netcoreapp2.0/Opdracht 2.pdb

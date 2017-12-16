@@ -1,0 +1,10 @@
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.csproj.CoreCompileInputs.cache
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfoInputs.cache
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfo.cs
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.deps.json
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.json
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.dev.json
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.pdb
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/dylan/Desktop/code/1718.csse/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.pdb
